@@ -28,7 +28,7 @@
     "emoji"
   ],
   "dependencies": {
-    "conventional-commit-types-emoji": "^0.1.0",
+    "conventional-commit-types-emoji": "git://github.com/dominguezcelada/conventional-commit-types-emoji#master",
     "lodash.map": "^4.6.0",
     "longest": "^2.0.0",
     "pad-right": "^0.2.2",
