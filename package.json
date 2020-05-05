@@ -28,7 +28,7 @@
     "emoji"
   ],
   "dependencies": {
-    "conventional-commit-types-emoji-oscardom": "^0.1.4",
+    "conventional-commit-types-emoji-oscardom": "^0.1.6",
     "lodash.map": "^4.6.0",
     "longest": "^2.0.0",
     "pad-right": "^0.2.2",
