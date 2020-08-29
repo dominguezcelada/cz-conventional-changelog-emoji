@@ -370,9 +370,9 @@ conventional-changelog@^1.1.0:
     conventional-changelog-jscs "^0.1.0"
     conventional-changelog-jshint "^0.1.0"
 
-conventional-commit-types-emoji@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/conventional-commit-types-emoji/-/conventional-commit-types-emoji-0.1.0.tgz#f3193a5f9e66dbc6dee5a380d111d8391a4809f6"
+conventional-commit-types-emoji-oscardom@^0.1.4:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/conventional-commit-types-emoji-oscardom/-/conventional-commit-types-emoji-oscardom-0.1.5.tgz#5a12b62f40e68aaa844c732743f88aa7ed649a85"
 
 conventional-commit-types@^2.0.0:
   version "2.1.0"
@@ -1119,7 +1119,7 @@ load-json-file@^1.0.0:
 
 load-json-file@^2.0.0:
   version "2.0.0"
-  resolved "http://registry.npmjs.org/load-json-file/-/load-json-file-2.0.0.tgz#7947e42149af80d696cbf797bcaabcfe1fe29ca8"
+  resolved "https://registry.npmjs.org/load-json-file/-/load-json-file-2.0.0.tgz#7947e42149af80d696cbf797bcaabcfe1fe29ca8"
   dependencies:
     graceful-fs "^4.1.2"
     parse-json "^2.2.0"
@@ -1245,8 +1245,8 @@ meow@^4.0.0:
     trim-newlines "^2.0.0"
 
 merge@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.0.tgz#7531e39d4949c281a66b8c5a6e0265e8b05894da"
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/merge/-/merge-1.2.1.tgz#38bebf80c3220a8a487b6fcfb3941bb11720c145"
 
 micromatch@^2.3.7:
   version "2.3.11"
